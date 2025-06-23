@@ -67,7 +67,7 @@ Make sure Python and Pygame are installed:
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [Apache 2.0 License](LICENSE).  
 You are free to use, modify, and distribute it with attribution.
 
 ---
